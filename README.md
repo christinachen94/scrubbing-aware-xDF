@@ -1,2 +1,2 @@
-xDF_scrub.py: code for scrubbing-aware xDF
+xDF_scrub.py: code for scrubbing-aware xDF <br />
 t1e_ar1_random_scrubbing.py: code for AR(1) + random scrubbing simulations (with example of implementing scrubbing-aware xDF)
